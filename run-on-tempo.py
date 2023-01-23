@@ -13,11 +13,10 @@ import requests
 import zipfile
 
 # path = os.path.dirname(os.path.realpath(__file__))
-# path = '.'
-path = '.' if os.path.isfile('./'+os.path.basename(__file__)) else os.path.dirname(os.path.abspath(__file__))
+path = '.'
 server = 'https://maohupi.riarock.com/web/game/run_on_tempo/user_login/login.php'
 shop = 'https://maohupi.riarock.com/web/game/run_on_tempo/resource_shop/shop.php'
-version = '1.0.0 (beta)'
+version = '2.0.0'
 langF = open(path+'/system/user/lang.json', 'r', encoding='utf-8')
 lang = langF.read()
 lang = json.loads(lang)
@@ -1284,7 +1283,7 @@ while cvs.running:
             def TJ(n:int, s:int):
                 return(str(n).rjust(s, '0'))
             ctx.font = str(int(1.5*vw))+'px '+textFont
-            ctx.fillText('{yy}/{MM}/{dd}  {hh}:{mm}:{ss}'.format(yy = TJ(T.tm_year, 4), MM = TJ(T.tm_mon, 2), dd = TJ(T.tm_mday, 2), hh = TJ(T.tm_hour, 2), mm = TJ(T.tm_min, 2), ss = TJ(T.tm_sec, 2)), 2*vw, 96*vh, againstX = 'left', againstY = 'bottom')
+            ctx.fillText('{yy}/{MM}/{dd}  {hh}:{mm}:{ss}'.format(yy = TJ(T.tm_year, 4), MM = TJ(T.tm_mon, 2), dd = TJ(T.tm_mday, 2), hh = TJ(T.tm_hour, 2), mm = TJ(T.tm_min, 2), ss = TJ(T.tm_sec, 2)), 2*vw, 96*vh, fontType = 'file', againstX = 'left', againstY = 'bottom')
             ctx.fillText(user['m'], 98*vw, 96*vh, fontType = 'file', againstX = 'right', againstY = 'bottom')
             ctx.fillStyle = color.white
             ctx.font = str(int(16*vw))+'px '+path+'/system/font/Zpix.ttf'

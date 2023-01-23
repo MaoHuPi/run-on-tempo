@@ -3,9 +3,794 @@
     "color": ["orange", "yellow"], 
     "items": [
         {
-            "time": 9290,
-            "speed": 2,  
+            "time": 10000,
+            "speed": 4,  
             "angle": 90
+        }, 
+        {
+            "time": 10000,
+            "speed": 4,  
+            "angle": -90
+        }
+        , 
+        {
+            "time": 10660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 11330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 12000,
+            "speed": 3,  
+            "angle": 45
+        }, 
+        {
+            "time": 12660,
+            "speed": 3,  
+            "angle": -135
+        }, 
+        {
+            "time": 13330,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 14000,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 14660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 15330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 16000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 16660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 17330,
+            "speed": 3,  
+            "angle": -135
+        }, 
+        {
+            "time": 18000,
+            "speed": 3,  
+            "angle": 45
+        }, 
+        {
+            "time": 18660,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 19330,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 20000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 20660,
+            "speed": 3,  
+            "angle": -90
+        }
+        , 
+        {
+            "time": 21330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 22000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 22660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 23330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 24000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 24660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 25330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 26000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 26660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 27330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 28000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 28660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 29330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 30000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 30660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 31330,
+            "speed": 3,  
+            "angle": 90
+        }
+        , 
+        {
+            "time": 32000,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 33330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 33330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 34660,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 36000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 36000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 37330,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 38660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 38660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 40000,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 41330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 41330,
+            "speed": 4,  
+            "angle": -90
+        }
+        , 
+        {
+            "time": 42660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 42660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 45330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 45330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 47330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 47330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 48000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 48000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 50660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 50660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 51330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 51330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 52000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 52000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 52660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 52660,
+            "speed": 4,  
+            "angle": -90
+        }
+        , 
+        {
+            "time": 53330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 54000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 54660,
+            "speed": 3,  
+            "angle": 45
+        }, 
+        {
+            "time": 55330,
+            "speed": 3,  
+            "angle": -135
+        }, 
+        {
+            "time": 56000,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 56660,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 57330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 58000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 58660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 59330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 60000,
+            "speed": 3,  
+            "angle": -135
+        }, 
+        {
+            "time": 60660,
+            "speed": 3,  
+            "angle": 45
+        }, 
+        {
+            "time": 61330,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 62000,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 62660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 63330,
+            "speed": 3,  
+            "angle": -90
+        }
+        , 
+        {
+            "time": 64000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 64660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 65330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 66000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 66660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 67330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 68000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 68660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 69330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 70000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 70660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 71330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 72000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 72660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 73330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 74000,
+            "speed": 3,  
+            "angle": 90
+        }
+        , 
+        {
+            "time": 74660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 74660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 75330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 75330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 76000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 76330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 76660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 79000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 79330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 80000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 80000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 80660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 80660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 81330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 81660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 82000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 84330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 84660,
+            "speed": 3,  
+            "angle": 90
+        }
+        , 
+        {
+            "time": 85330,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 86660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 86660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 88000,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 89330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 89330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 90660,
+            "speed": 3,  
+            "angle": 135
+        }, 
+        {
+            "time": 92000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 92000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 93330,
+            "speed": 3,  
+            "angle": -45
+        }, 
+        {
+            "time": 94660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 94660,
+            "speed": 4,  
+            "angle": -90
+        }
+        , 
+        {
+            "time": 96000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 96000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 97330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 97330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 98660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 98660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 100000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 100000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 101330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 101330,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 102660,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 102660,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 104000,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 104000,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 105330,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 105330,
+            "speed": 4,  
+            "angle": -90
+        }
+        , 
+        {
+            "time": 106660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 107330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 108000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 108660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 109330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 110000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 110660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 111330,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 112000,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 112660,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 113330,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 114000,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 114660,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 115500,
+            "speed": 3,  
+            "angle": -90
+        }, 
+        {
+            "time": 116500,
+            "speed": 3,  
+            "angle": 90
+        }, 
+        {
+            "time": 117500,
+            "speed": 3,  
+            "angle": -90
         }
     ]
 }

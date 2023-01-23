@@ -1,4 +1,77 @@
 {
-    "title": "神殿裡昏迷｜coma_in_temple", 
-    "color": ["purple", "blue"]
+    "title": "神殿裡昏迷｜coma_in_temple - 困難", 
+    "color": ["purple", "blue"], 
+    "items": [
+        {
+            "time": 9290,
+            "speed": 2,  
+            "angle": 90
+        }, 
+        {
+            "time": 11530,
+            "speed": 2,  
+            "angle": -90
+        }, 
+        {
+            "time": 13840,
+            "speed": 2,  
+            "angle": 90
+        }, 
+        {
+            "time": 16150,
+            "speed": 2,  
+            "angle": -90
+        }, 
+        {
+            "time": 18460,
+            "speed": 4,  
+            "angle": 90
+        }, 
+        {
+            "time": 18460,
+            "speed": 4,  
+            "angle": -90
+        }, 
+        {
+            "time": 23070,
+            "speed": 2,  
+            "angle": 45
+        }, 
+        {
+            "time": 23650,
+            "speed": 2,  
+            "angle": -135
+        }, 
+        {
+            "time": 24510,
+            "speed": 2,  
+            "angle": -45
+        }, 
+        {
+            "time": 24800,
+            "speed": 2,  
+            "angle": 135
+        }, 
+
+        {
+            "time": 25380,
+            "speed": 2,  
+            "angle": 45
+        }, 
+        {
+            "time": 25960,
+            "speed": 2,  
+            "angle": -135
+        }, 
+        {
+            "time": 26820,
+            "speed": 2,  
+            "angle": -45
+        }, 
+        {
+            "time": 27110,
+            "speed": 2,  
+            "angle": 135
+        }
+    ]
 }
