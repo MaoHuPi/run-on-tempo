@@ -1,2 +1,19 @@
-# run-on-tempo
-a music game that 爛到爆炸
+# 在拍點上奔逃 | Run On Tempo
+
+> 2023 @ MaoHuPi
+
+## 壓縮載點
+* [mega](https://mega.nz/folder/xtcA2AQR#v58aXdAUCHnbA73A9WehWg)
+
+## 注意事項
+* 從版本2.0.0開始，開放使用商店功能，商店可能不定時更新，如有更新會在twitter公告
+* 不要哭餓我，這只是個瘋狗專案
+
+## 免責聲明
+* 如果有bug，請自己修
+* 如果商店的server爛了，請自己架
+* 如果接第三方的商店server或從其他地方載到有問題的`角色`、`歌曲`，本開發人員概不負責
+
+## 著作聲明
+* code可以參考，但太亂了你絕對不會想看
+* 請不要偷專案，因為你能寫得比我好
