@@ -1,0 +1,11 @@
+{
+    "title": "隔宿｜Ge_Su - 普通", 
+    "color": ["orange", "yellow"], 
+    "items": [
+        {
+            "time": 9290,
+            "speed": 2,  
+            "angle": 90
+        }
+    ]
+}
